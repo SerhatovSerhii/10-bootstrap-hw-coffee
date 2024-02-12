@@ -1,0 +1,65 @@
+  @import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Raleway:wght@100;500;600;800&display=swap');
+
+
+
+
+  #brazil {
+      background-image: url(./images/brazil_18295.png);
+      background-repeat: no-repeat;
+      background-position: calc(10% - 0.5em) calc(10% - 1.5em);
+      background-size: 3em
+  }
+
+  #colombia {
+      background-image: url(./images/colombia_18292.png);
+      background-repeat: no-repeat;
+      background-position: calc(10% - 1.0em) calc(10% - 1.5em);
+      background-size: 3em
+  }
+
+  #india {
+      background-image: url(./images/india_18180.png);
+      background-repeat: no-repeat;
+      background-position: calc(10% - 0.5em) calc(10% - 1.5em);
+      background-size: 3em
+  }
+
+  #ethiopia {
+      background-image: url(./images/ethiopia_18203.png);
+      background-repeat: no-repeat;
+      background-position: calc(10% - 0.5em) calc(10% - 1.7em);
+      background-size: 3em
+  }
+
+  #kenya {
+      background-image: url(./images/kenya_18167.png);
+      background-repeat: no-repeat;
+      background-position: calc(10% - 0.5em) calc(10% - 1.7em);
+      background-size: 3em
+  }
+
+  #costa {
+      background-image: url(./images/costa_rica_18291.png);
+      background-repeat: no-repeat;
+      background-position: calc(10% - 1.3em) calc(10% - 1.7em);
+      background-size: 3em
+  }
+
+  .container-fluid {
+      font-family: 'Raleway', sans-serif;
+      font-weight: 500;
+      background-color: bisque;
+  }
+
+  .border {
+      text-decoration: none;
+      color: rgb(100, 32, 7);
+  }
+
+  p {
+      text-indent: 2em;
+  }
+
+  h1 {
+      font-family: 'Covered By Your Grace', cursive;
+  }
